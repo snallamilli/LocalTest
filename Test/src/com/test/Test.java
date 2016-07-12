@@ -12,6 +12,6 @@ public class Test extends ABC {
 		      ABC obj = new Test();
 		      obj.disp();
 		      obj.abc();
-		      System.out.println("Done");
+		      System.out.println("FirstChange");
 		   }
 }
